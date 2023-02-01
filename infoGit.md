@@ -40,9 +40,9 @@
 >**git commit -am “message”** – добавление файлов в отслеживание и       создание коммита 
 
 >***git log --oneline*** – коротенький журнал
-dvkdjbvd
-bfttb
-ft
-b
-ftb
-f
+1
+2
+3
+4
+5
+6
